@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+}
+
+#title {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#add-burger {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.submit-button {
+    margin-top: 15px;
+}
+
+#plate {
+    float: left;
+}
+
+#belly {
+    float: right;
+}
