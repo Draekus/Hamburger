@@ -7,6 +7,11 @@ body {
     text-align: center;
 }
 
+#title-img {
+    width: 400px;
+    height: 400px;
+}
+
 #add-burger {
     margin: 0 auto;
     text-align: center;
