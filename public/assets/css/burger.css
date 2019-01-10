@@ -10,6 +10,7 @@ body {
 #title-img {
     width: 400px;
     height: 400px;
+    margin: 0 auto;
 }
 
 #add-burger {
@@ -23,8 +24,11 @@ body {
 
 #plate {
     float: left;
+    margin-left: 20px;
 }
+
 
 #belly {
     float: right;
+    margin-right: 20px;
 }
